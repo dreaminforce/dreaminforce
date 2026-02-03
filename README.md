@@ -17,6 +17,7 @@ I design scalable CRM experiences across Sales, Service, and Data Cloud with an 
   <img src="https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/icon-ai.svg?w=1024" alt="Einstein AI" width="40" />
   <img src="https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/icon-sales.svg?w=1024" alt="Sales Cloud" width="40" />
   <img src="https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/icon-service.svg?w=1024" alt="Service Cloud" width="40" />
+  <img src="https://www.dreaminforce.com/wp-content/uploads/2026/02/BGBGBG-removebg-preview.png" alt="Experience Cloud" width="40" />
   <img src="https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/icon-data-cloud.svg?w=1024" alt="Data 360 (Data Cloud)" width="40" />
   <img src="https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/icon-tableau.svg?w=1024" alt="Tableau" width="40" />
   <img src="https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/icon-mulesoft.svg?w=1024" alt="MuleSoft" width="40" />
