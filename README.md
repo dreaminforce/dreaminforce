@@ -1,3 +1,6 @@
+![IMG_6361](https://github.com/user-attachments/assets/7f485117-d47c-4a24-9c99-c1b5c9885c95)
+
+
 # Hi, I'm Kamal Thakur 👋
 **Technical Manager, Salesforce** · Grazitti Interactive · Panchkula, India.
 
