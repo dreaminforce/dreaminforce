@@ -50,7 +50,9 @@ fine-tuning, agentic workflows (n8n, Zapier), MCP-based tool orchestration.
 
 ## Highlights
 
-- Led a 3-region Sales Cloud rollout for 2,000+ users\nDelivered Einstein-powered service deflection flows\nBuilt a reusable Data Cloud ingestion toolkit
+- Developed Autopex as an AI utility and conversational bot that works on Salesforce data, metadata, and Salesforce
+security/access.
+- MVP @Grazitti in 2024, Awarded a new car for exceptional performance (2024).
 
 ## Featured Projects
 
@@ -61,10 +63,10 @@ fine-tuning, agentic workflows (n8n, Zapier), MCP-based tool orchestration.
 ## Connect
 
 <p align="left">
-<a href="mailto:kamal.thakur.dev16@gmail.com"><img src="https://img.icons8.com/?size=100&id=12623&format=png&color=000000" alt="Email" width="28" height="28" /></a>
-<a href="https://www.dreaminforce.com/"><img src="https://img.icons8.com/?size=100&id=GsMdC9NCKCAD&format=png&color=000000" alt="Blog" width="28" height="28" /></a>
-<a href="https://www.linkedin.com/in/kamalthakursfdc/"><img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" alt="LinkedIn" width="28" height="28" /></a>
-<a href="https://github.com/dreaminforce"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" width="28" height="28" /></a>
+<a href="mailto:kamal.thakur.dev16@gmail.com"><img src="https://img.icons8.com/?size=100&id=12623&format=png&color=1EB37F" alt="Email" width="28" height="28" /></a>
+<a href="https://www.dreaminforce.com/"><img src="https://img.icons8.com/?size=100&id=GsMdC9NCKCAD&format=png&color=1EB37F" alt="Blog" width="28" height="28" /></a>
+<a href="https://www.linkedin.com/in/kamalthakursfdc/"><img src="https://img.icons8.com/?size=100&id=8808&format=png&color=1EB37F" alt="LinkedIn" width="28" height="28" /></a>
+<a href="https://github.com/dreaminforce"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=1EB37F" alt="GitHub" width="28" height="28" /></a>
 </p>
 
 > May the Force be with you ;)
