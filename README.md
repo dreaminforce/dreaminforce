@@ -56,9 +56,16 @@ security/access.
 
 ## Featured Projects
 
-- [NavForce — Salesforce Navigator (Chrome Extension)](https://chromewebstore.google.com/detail/navforce-salesforce-navig/dnmaiebaccplcnlapfgjhpahogddcejl) — Chrome Extension for Salesforce Developers and Admins
+- [NavForce — Salesforce Navigator (Chrome Extension)](https://chromewebstore.google.com/detail/navforce-salesforce-navig/dnmaiebaccplcnlapfgjhpahogddcejl) — Chrome Extension for Salesforce Developers and Admins.
+- [SFDC Console](https://chromewebstore.google.com/detail/SFDC%20Console/eeeeobhnlbmdckdncgflimpaianinamf) - Chrome Extension to open Developer Console and Anonymous Windows in one click. 
 - [LWCLab](https://github.com/dreaminforce/LWCLab) — LWCLab lets you describe a Lightning Web Component in natural language and preview usable source code in seconds. The project couples a Lightning Web Runtime (LWR) single-page app with a lightweight Node API that can call either OpenAI or Google Gemini based on the model toggle in the UI.
 - [NLCharts](https://github.com/dreaminforce/NLCharts) — Turn plain-English questions into safe SOQL datasets and a ready-to-share chart without leaving Salesforce.
+- [Visual Graphs](https://github.com/dreaminforce/VisualGraphs) - Visual Graphs is a collection of polished Salesforce Lightning Web Components (LWC) for narrative analytics and access visibility.
+- [Salesforce Github Generator](https://dreaminforce.github.io/salesforce-github-readme-generate/) - Craft a standout Salesforce-focused GitHub profile in minutes. Pick clouds, certs, highlights, and export a polished `README.md`.
+- [Google Chat -> n8n Connector via Apps Script](https://github.com/dreaminforce/google-chat-n8n-connector) - A connector that forwards Google Chat messages into an n8n workflow and then posts the workflow's output back into Google Chat.
+- [Apex-PMD](https://github.com/dreaminforce/Apex-PMD) : A Standalone Chrome extension POC, to run Apex PMD rules in browser.
+- [AWS Signature v4 Implementation using Apex Salesforce](https://github.com/dreaminforce/Salesforce-AWS-Signature-v4/tree/main) - This Apex class implements AWS Signature Version 4 authentication to interact with AWS Bedrock services from Salesforce.
+- [Salesforce Code Interpreter - OpenAI Assistant Integration](https://github.com/dreaminforce/Salesforce-Code-Interpreter) -  integration of OpenAI Assistant's Code Interpreter into Salesforce Communities using Lightning Web Components (LWC). It enables seamless interaction with OpenAI's Assistant API, providing enhanced user experiences within Salesforce Communities
 
 ## Connect
 
