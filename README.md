@@ -66,6 +66,7 @@ security/access.
 - [Apex-PMD](https://github.com/dreaminforce/Apex-PMD) : A Standalone Chrome extension POC, to run Apex PMD rules in browser.
 - [AWS Signature v4 Implementation using Apex Salesforce](https://github.com/dreaminforce/Salesforce-AWS-Signature-v4/tree/main) - This Apex class implements AWS Signature Version 4 authentication to interact with AWS Bedrock services from Salesforce.
 - [Salesforce Code Interpreter - OpenAI Assistant Integration](https://github.com/dreaminforce/Salesforce-Code-Interpreter) -  integration of OpenAI Assistant's Code Interpreter into Salesforce Communities using Lightning Web Components (LWC). It enables seamless interaction with OpenAI's Assistant API, providing enhanced user experiences within Salesforce Communities
+- [Salesforce Change Data Capture Trade](https://github.com/dreaminforce/sf-cdc-trace) - Record-level tracing layer for Salesforce Account CDC pipelines. This project adds two custom Account fields and trigger logic so teams can trace per-record progression across Salesforce -> AWS (or any downstream consumer) and quickly estimate likely missing events for one Account.
 
 ## Connect
 
