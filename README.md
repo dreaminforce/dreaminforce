@@ -54,8 +54,9 @@ fine-tuning, agentic workflows (n8n, Zapier), MCP-based tool orchestration.
 security/access.
 - MVP @Grazitti in 2024, Awarded a new car for exceptional performance (2024).
 
-## Featured Projects
+## OpenSource Projects
 
+- [duplicate-resolution-console](https://github.com/dreaminforce/duplicate-resolution-console) — Salesforce DX project for duplicate detection and resolution across two workflows - Matching & Duplicate Rule Workbench for reviewing Salesforce DuplicateRecordSet and DuplicateRecordItem data AND Heuristic Duplicate Admin for running same-object duplicate scans without relying on Salesforce Matching Rules or Duplicate Rules.
 - [NavForce — Salesforce Navigator (Chrome Extension)](https://chromewebstore.google.com/detail/navforce-salesforce-navig/dnmaiebaccplcnlapfgjhpahogddcejl) — Chrome Extension for Salesforce Developers and Admins.
 - [SFDC Console](https://chromewebstore.google.com/detail/SFDC%20Console/eeeeobhnlbmdckdncgflimpaianinamf) - Chrome Extension to open Developer Console and Anonymous Windows in one click. 
 - [LWCLab](https://github.com/dreaminforce/LWCLab) — LWCLab lets you describe a Lightning Web Component in natural language and preview usable source code in seconds. The project couples a Lightning Web Runtime (LWR) single-page app with a lightweight Node API that can call either OpenAI or Google Gemini based on the model toggle in the UI.
