@@ -1,4 +1,5 @@
-![IMG_6361](https://github.com/user-attachments/assets/7f485117-d47c-4a24-9c99-c1b5c9885c95)
+<img width="1904" height="640" alt="IMG_7130" src="https://github.com/user-attachments/assets/66b8c7f8-de7c-4770-ab76-d33640bbb147" />
+
 
 
 # Hi, I'm Kamal Thakur 👋
