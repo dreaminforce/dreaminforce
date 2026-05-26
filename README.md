@@ -57,6 +57,7 @@ security/access.
 
 ## OpenSource Projects
 
+- [salesforce-sdk-data-mock](https://github.com/dreaminforce/salesforce-sdk-data-mock) - Generic in-memory Vite mock for @salesforce/sdk-data Salesforce UI API GraphQL query patterns. Use this when you want a Salesforce Multi-Framework React app to run locally without a live org for common uiapi.query reads.
 - [duplicate-resolution-console](https://github.com/dreaminforce/duplicate-resolution-console) — Salesforce DX project for duplicate detection and resolution across two workflows - Matching & Duplicate Rule Workbench for reviewing Salesforce DuplicateRecordSet and DuplicateRecordItem data AND Heuristic Duplicate Admin for running same-object duplicate scans without relying on Salesforce Matching Rules or Duplicate Rules.
 - [NavForce — Salesforce Navigator (Chrome Extension)](https://chromewebstore.google.com/detail/navforce-salesforce-navig/dnmaiebaccplcnlapfgjhpahogddcejl) — Chrome Extension for Salesforce Developers and Admins.
 - [SFDC Console](https://chromewebstore.google.com/detail/SFDC%20Console/eeeeobhnlbmdckdncgflimpaianinamf) - Chrome Extension to open Developer Console and Anonymous Windows in one click. 
